@@ -158,10 +158,3 @@ let costomerrr = getCustomer(1);
 // optional property access operation 
 console.log(costomerrr?.birthday)
 
-
-
-
-
-
-/////////////////////////////////////
-// hi this is sameeer faridi
