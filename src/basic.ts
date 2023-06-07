@@ -42,6 +42,8 @@ console.log(MySize);
 
 /////////////////////////////////////////////////////[  FUNCTONS  ]////////////////////////////////////////////////////////////////////////////////////////////
 
+//type 1
+
 function incomeTaxCalculation(income:number, year:number): number {
     if(year < 2022)
     return income*1.2;
@@ -157,4 +159,4 @@ if (customerr !== null && customerr !== undefined)
 let costomerrr = getCustomer(1);
 // optional property access operation 
 console.log(costomerrr?.birthday)
-
+// zxcghjkl;sxcvbnmkl;dfvhjkl;sdfghjklsdfghjkl
